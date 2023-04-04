@@ -16,7 +16,8 @@ const AttachmentIcons = () => {
           <p> pictures </p>
           <p> videos </p>
           <p> file </p>
-          <p> contact </p>
+          <p> contact  satrdfrdfdfd</p>
+
         </div>
       )}
     </div>
